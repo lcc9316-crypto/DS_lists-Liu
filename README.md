@@ -3,3 +3,14 @@ Repository to test out using git for collaborative coding in class.
 
 There are 10 lists in the repository. Students will break up into 10 groups and use git to collaboratively edit the lists. 
 If you aren't sure how to add to your list, try googling the topic and find something that might be useful to others.
+
+# DS Lists - Liu
+
+This repository is used for tracking my learning progress in:
+- SQL
+- Python
+- Data Analytics
+- AI tools & automation
+
+## Weekly Progress
+- Week 1: SQL basics
